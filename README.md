@@ -1,6 +1,6 @@
 # IGPAY ATINLAY CODE SPECIFICATION File
 
-##By Anbilparithi Pagutharivu(2018A7PS0180U) and Chakradhar Baswaraj(2018A7PS0311U). 
+## By Anbilparithi Pagutharivu(2018A7PS0180U) and Chakradhar Baswaraj(2018A7PS0311U). 
 
 *The goal of this specification is to act as a baseline for all following IGPAY ATINLAY CODE specifications. As such, some traditionally expected language features may appear "incomplete." This is most likely deliberate, as it will be easier to add to the language than to change and introduce further incompatibilities. *
 
